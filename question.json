@@ -1,7 +1,7 @@
 {
-  "category": "Música",
-  "question": "¿Cuáles son los raperos con mayor número de premios Grammy?",
-  "options": ["Jay-Z y Kanye West", "Drake y Kendrick Lamar", "André 3000 y Eminem"],
+  "category": "Cultura Colombiana",
+  "question": "¿Que cosa le gusta hacer a los colombianos los domingos?",
+  "options": ["Hacer pereza", "Hacer oficio", "Dormir oficio"],
   "answer": 0,
-  "explanation": "Jay-Z y Kanye West tienen ambos 24 premios Grammys cada uno."
+  "explanation": "Por lo general a todos los colombianos nos gusta dormir hasta tarde y ver television."
 }
