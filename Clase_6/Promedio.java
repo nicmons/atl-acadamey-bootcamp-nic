@@ -6,7 +6,7 @@ public class Promedio {
             double num2 = numeroIngresado();
             double num3 = numeroIngresado();
             double promedio = calculadorPromedio(num1,num2,num3);
-            System.out.println("El promedio de los numeros total obteni5do es de " + promedio );
+            System.out.println("El promedio de los numeros total obtenido es de " + promedio );
         }
 
         static public double calculadorPromedio(double num1, double num2, double num3){
